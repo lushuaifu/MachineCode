@@ -1,0 +1,15 @@
+﻿  GetCpuSerialByCmd.cpp
+e:\cyclone\machinecode\machinecode\getcpuserialbycmd.cpp(69): warning C4267: “=”: 从“size_t”转换到“long”，可能丢失数据
+  get_hardware_information.cpp
+  HardDriveSerialNumer.cpp
+e:\cyclone\machinecode\machinecode\harddriveserialnumer.cpp(49): warning C4311: “类型强制转换”: 从“HANDLE”到“int”的指针截断
+e:\cyclone\machinecode\machinecode\harddriveserialnumer.cpp(49): warning C4302: “类型强制转换”: 从“HANDLE”到“int”截断
+e:\cyclone\machinecode\machinecode\harddriveserialnumer.cpp(147): warning C4311: “类型强制转换”: 从“HANDLE”到“int”的指针截断
+e:\cyclone\machinecode\machinecode\harddriveserialnumer.cpp(147): warning C4302: “类型强制转换”: 从“HANDLE”到“int”截断
+e:\cyclone\machinecode\machinecode\harddriveserialnumer.cpp(549): warning C4996: 'GetVersionExW': 被声明为已否决
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(442): note: 参见“GetVersionExW”的声明
+  main.cpp
+  md5.cpp
+e:\cyclone\machinecode\machinecode\md5.cpp(81): warning C4267: “参数”: 从“size_t”转换到“MD5::size_type”，可能丢失数据
+  正在生成代码...
+  MachineCode.vcxproj -> E:\Cyclone\MachineCode\x64\Debug\MachineCode.exe
